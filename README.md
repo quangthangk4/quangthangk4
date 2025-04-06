@@ -1,6 +1,10 @@
 ## EDUCATION
 
-### I am currently studying at Bach Khoa University <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fhcmut.edu.vn%2Fgioi-thieu%2Fnhan-dien-thuong-hieu&psig=AOvVaw1Ecvr5DdyYcYx3CnsANoQk&ust=1744043741734000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNCCnrjrw4wDFQAAAAAdAAAAABAE" alt="Bach Khoa University Logo" width="50"/>
+### I am currently studying at Bach Khoa University
+
+<a href="https://hcmut.edu.vn/" target="_blank">
+  <img src="01_logobachkhoasang.png" width="50" alt="hcmut" />
+</a>vn%2Fgioi-thieu%2Fnhan-dien-thuong-hieu&psig=AOvVaw1Ecvr5DdyYcYx3CnsANoQk&ust=1744043741734000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNCCnrjrw4wDFQAAAAAdAAAAABAE" alt="Bach Khoa University Logo" width="50"/>
 
 ## 🌐Socials
 
