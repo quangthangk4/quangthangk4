@@ -1,8 +1,8 @@
 ## EDUCATION
 
-### I am currently studying at Bach Khoa University <a href="#" target="_blank">
-
-  <img src="svg/01_logobachkhoasang.png" width="50" alt="trungquandev-official" />
+### I am currently studying at Bach Khoa University 
+<a href="#" target="_blank">
+  <img src="svg/01_logobachkhoasang.png" width="300" alt="trungquandev-official" />
 </a>
 
 ## 🌐Socials
